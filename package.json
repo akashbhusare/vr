@@ -1,0 +1,18 @@
+{
+  "name": "accessible-residence-hall",
+  "description": "A VR experience to educate prospective students about the accessibility amenities available at UF's Cypress Hall.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open"
+  },
+  "devDependencies": {
+    "budo": "^11.6.0"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ]
+}
